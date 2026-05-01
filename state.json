@@ -1,6 +1,13 @@
 {
-  "last_hash": "94de21056a55bb654ed5e0ba115243ba01b9ff2d64d6cb7898961b5fc5fc996d",
+  "last_hash": "f2d99fc45d2e2e169306d3943e19d0a6914509e6d21ec8ed5b835763d9b7e0b7",
   "items": [
+    {
+      "title": "Page updated: Biblionet page changes - Tina Mandilara",
+      "link": "https://www.biblionet.gr/tina-mandilara-c80746",
+      "guid": "20260501T193946Z-f2d99fc45d2e",
+      "pubDate": "Fri, 01 May 2026 19:39:46 GMT",
+      "description": "The monitored page changed. Snapshot hash: f2d99fc45d2e"
+    },
     {
       "title": "Page updated: Biblionet page changes - Tina Mandilara",
       "link": "https://www.biblionet.gr/tina-mandilara-c80746",
@@ -203,13 +210,6 @@
       "guid": "20260409T075553Z-4b146f0524f2",
       "pubDate": "Thu, 09 Apr 2026 07:55:53 GMT",
       "description": "The monitored page changed. Snapshot hash: 4b146f0524f2"
-    },
-    {
-      "title": "Page updated: Biblionet page changes - Tina Mandilara",
-      "link": "https://www.biblionet.gr/tina-mandilara-c80746",
-      "guid": "20260409T032937Z-88550d2308f0",
-      "pubDate": "Thu, 09 Apr 2026 03:29:37 GMT",
-      "description": "The monitored page changed. Snapshot hash: 88550d2308f0"
     }
   ]
 }
